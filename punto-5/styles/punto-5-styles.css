@@ -1,0 +1,38 @@
+.verde-subrayado {
+	color: green;
+	text-decoration: underline;
+}
+
+.rojo {
+	color: red;
+	font-weight: bold;
+}
+
+.doble-linea {
+	position: relative;
+	text-decoration: underline;
+}
+
+.doble-linea::before {
+	content: "";
+	position: absolute;
+	top: -0.15em;
+	left: 0;
+	right: 0;
+	height: 0.15em;
+	background-color: currentColor;
+}
+
+.aumentado {
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.azul {
+	font-weight: bold;
+	color: blue;
+}
+
+.subrayado {
+	text-decoration: underline;
+}

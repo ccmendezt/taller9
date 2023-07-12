@@ -1,0 +1,11 @@
+#seccion-2 {
+	padding: 25px 180px;
+	background: #ed80fd26;
+}
+
+.section-2__info {
+	justify-content: left;
+	display: flex;
+	gap: 35px;
+	margin: 70px 0px;
+}

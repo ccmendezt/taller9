@@ -1,0 +1,20 @@
+table {
+	margin: 20px 200px;
+	background-color: yellow;
+	border: black 1px dotted;
+	border-collapse: collapse;
+}
+
+th {
+	color: red;
+	margin: 0;
+	padding: 0;
+}
+
+td {
+	border: rgb(8, 8, 8) 1px dotted;
+}
+
+span {
+	font-size: 20px;
+}

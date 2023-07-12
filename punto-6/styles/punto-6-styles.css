@@ -1,0 +1,15 @@
+div,
+h1 {
+	margin: 10px;
+	padding: 10px;
+}
+
+div a {
+	color: yellow;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.link2 a {
+	color: blueviolet;
+}

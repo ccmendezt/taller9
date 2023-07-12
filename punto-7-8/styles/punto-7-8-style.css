@@ -1,0 +1,25 @@
+nav {
+	margin: 20px 100px;
+	display: flex;
+	background-color: rgba(125, 83, 142, 0.589);
+}
+
+nav button {
+	margin: 10px 10px;
+	padding: 10px 10px;
+	align-items: center;
+	color: #fff;
+	background-color: blue;
+	border: none;
+	cursor: pointer;
+}
+
+nav ul {
+	text-decoration: none;
+	list-style: none;
+}
+
+.item a {
+	color: #fff;
+	text-decoration-line: none;
+}
