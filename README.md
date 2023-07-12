@@ -7,7 +7,7 @@ Profesor: Cristian Patiño
 ## Punto 1: Enlaces
 
 <a href="https://www.figma.com/file/USJ51QKP51zRBf2S4MQUjq/CRISTIAN-M%C3%89NDEZ?type=design&mode=design&t=wbHtgWIKlzm8hj9R-1" target="_blank">Link Figma</a><br />
-<a href="" target="_blank">Link página</a>
+<a href="ccmendezt.github.io" target="_blank">Link página</a>
 
 ## Punto 2: HTML
 ![Punto 2 P1](https://github.com/ccmendezt/taller9/blob/main/public/images/Punto%202%20P1.JPG)
