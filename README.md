@@ -11,6 +11,7 @@
 <a href="" target="_blank">Link de la Página</a>
 
 <h2> Punto 2: HTML</h2>
+![Punto 2 P1](https://github.com/ccmendezt/taller9/blob/main/public/images/Punto%202%20P1.JPG)
 <h2> Punto 3: CSS</h2>
 <h2> Punto 4</h2>
 <h2> Punto 5</h2>
